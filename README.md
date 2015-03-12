@@ -1,5 +1,6 @@
 # Minesweeper clone using Python and Pygame
 
+
 <h2>About</h2>
 Hobby project, <b>autumn 2013</b>.
 <br>
